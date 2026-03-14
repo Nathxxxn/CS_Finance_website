@@ -19,7 +19,15 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "sanity": ["./node_modules/sanity"],
+      "sanity/*": ["./node_modules/sanity/*"],
+      "@sanity/types": ["./node_modules/@sanity/types"],
+      "@sanity/types/*": ["./node_modules/@sanity/types/*"],
+      "next-sanity": ["./node_modules/next-sanity"],
+      "next-sanity/*": ["./node_modules/next-sanity/*"],
+      "@sanity/vision": ["./node_modules/@sanity/vision"],
+      "@sanity/vision/*": ["./node_modules/@sanity/vision/*"]
     }
   },
   "include": [
