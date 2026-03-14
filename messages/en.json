@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "team": "The Team",
+    "events": "Events",
+    "partners": "Partners",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Built for Finance, shaped by CS",
+      "title": "The bridge between CentraleSupélec and Finance",
+      "subtitle": "We connect CentraleSupélec students to the world of finance — networking, interview preparation, and career discovery.",
+      "cta_primary": "Discover the association",
+      "cta_secondary": "Get in touch"
+    },
+    "pillars": {
+      "title": "What we do",
+      "networking": {
+        "title": "Networking",
+        "description": "Meet finance professionals and build a lasting network from your very first years."
+      },
+      "training": {
+        "title": "Training",
+        "description": "Prepare for finance interviews with our technical sessions and mock interview workshops."
+      },
+      "discovery": {
+        "title": "Discovery",
+        "description": "Explore finance careers through conferences, company visits, and professional testimonials."
+      }
+    },
+    "events_preview": {
+      "title": "Upcoming events",
+      "see_all": "See all events"
+    }
+  },
+  "team": {
+    "title": "The Team",
+    "subtitle": "The board running the association."
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "Conferences, workshops, networking — everything we organise for you.",
+    "register": "Register",
+    "past": "Past events",
+    "upcoming": "Upcoming events",
+    "no_events": "No upcoming events at the moment.",
+    "back": "Back to events"
+  },
+  "partners": {
+    "title": "Partners",
+    "subtitle": "They trust us and support our mission.",
+    "become_partner": {
+      "title": "Become a partner",
+      "description": "Want to support CentraleSupélec Finance and access a talent pool from one of France's top engineering schools?",
+      "cta": "Contact us"
+    },
+    "tiers": {
+      "gold": "Gold",
+      "silver": "Silver",
+      "bronze": "Bronze"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "A question, a partnership project, or just want to collaborate?",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send message",
+      "sending": "Sending…",
+      "success": "Message sent! We will get back to you as soon as possible.",
+      "error": "Something went wrong. Please try again or email us directly."
+    }
+  },
+  "footer": {
+    "tagline": "Built for Finance, shaped by CS",
+    "links": "Links",
+    "follow": "Follow",
+    "rights": "All rights reserved."
+  }
+}

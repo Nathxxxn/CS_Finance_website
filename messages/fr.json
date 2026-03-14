@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "team": "L'Équipe",
+    "events": "Événements",
+    "partners": "Partenaires",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Built for Finance, shaped by CS",
+      "title": "Le carrefour entre CentraleSupélec et la Finance",
+      "subtitle": "Nous connectons les étudiants de CentraleSupélec au monde de la finance — networking, formations aux entretiens, découverte des métiers.",
+      "cta_primary": "Découvrir l'association",
+      "cta_secondary": "Nous contacter"
+    },
+    "pillars": {
+      "title": "Ce que nous faisons",
+      "networking": {
+        "title": "Networking",
+        "description": "Rencontrez des professionnels de la finance et construisez un réseau durable dès votre cursus."
+      },
+      "training": {
+        "title": "Formations",
+        "description": "Préparez-vous aux entretiens en finance avec nos sessions techniques et nos simulations d'entretiens."
+      },
+      "discovery": {
+        "title": "Découverte",
+        "description": "Explorez les métiers de la finance à travers des conférences, visites et témoignages de professionnels."
+      }
+    },
+    "events_preview": {
+      "title": "Prochains événements",
+      "see_all": "Voir tous les événements"
+    }
+  },
+  "team": {
+    "title": "L'Équipe",
+    "subtitle": "Le bureau qui fait tourner l'association."
+  },
+  "events": {
+    "title": "Événements",
+    "subtitle": "Conférences, ateliers, networking — tout ce qu'on organise pour vous.",
+    "register": "S'inscrire",
+    "past": "Événements passés",
+    "upcoming": "Prochains événements",
+    "no_events": "Aucun événement à venir pour le moment.",
+    "back": "Retour aux événements"
+  },
+  "partners": {
+    "title": "Partenaires",
+    "subtitle": "Ils nous font confiance et soutiennent notre mission.",
+    "become_partner": {
+      "title": "Devenir partenaire",
+      "description": "Vous souhaitez soutenir CentraleSupélec Finance et accéder à un vivier de talents de l'une des meilleures écoles d'ingénieurs de France ?",
+      "cta": "Nous contacter"
+    },
+    "tiers": {
+      "gold": "Gold",
+      "silver": "Silver",
+      "bronze": "Bronze"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Une question, un projet de partenariat ou une envie de collaborer ?",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse e-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours…",
+      "success": "Message envoyé ! Nous vous répondrons dans les plus brefs délais.",
+      "error": "Une erreur est survenue. Veuillez réessayer ou nous écrire directement."
+    }
+  },
+  "footer": {
+    "tagline": "Built for Finance, shaped by CS",
+    "links": "Liens",
+    "follow": "Suivre",
+    "rights": "Tous droits réservés."
+  }
+}
